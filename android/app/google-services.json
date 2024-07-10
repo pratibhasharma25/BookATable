@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746383556678",
+    "project_id": "book-new-table-aa2509",
+    "storage_bucket": "book-new-table-aa2509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746383556678:android:49856cf44dda08a73eca47",
+        "android_client_info": {
+          "package_name": "com.example.booknewtable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr3RsxrQTxgdFWZ2lq7zFCCBI6sP8GVQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
